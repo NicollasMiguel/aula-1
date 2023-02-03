@@ -1,0 +1,114 @@
+/*GERAL*/
+body
+{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+/*CABECALHO*/
+header
+{
+    padding-top: 0;
+    padding-bottom: 0;
+    padding: 1rem .8rem;
+}
+.logo
+{
+    width: 75px;
+    padding: 0;
+}
+.cab2
+{
+    display: inline;
+    margin-right: 15px;
+}
+.cab1
+{
+    text-transform: uppercase;
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 22px;
+    background-color: #556B2F ;
+}
+
+
+/*CONTEUDO PRINCIPAL*/
+main
+{
+    margin: 30px;
+}
+.main-text
+{
+    margin-bottom: 50px;
+}
+.tabela2
+{
+    float: left;
+    border-style: solid;
+    border-width: thick;
+    margin: 30px;
+    background-color: aliceblue;
+    margin-top: 0;
+}
+.tabela1
+{
+    float: right;
+    border-style: solid;
+    border-width: thick;
+    margin: 35px;
+    background-color: aliceblue;
+    margin-top: 0;
+}
+.flag
+{
+    float: right;
+    border-style: solid;
+    border-width: thick;
+    height: 130px;
+    margin: 30px;
+    margin-bottom: 30px;
+}
+.mapa
+{
+    width: 330px;
+    height: 330px;
+}
+.text-table
+{
+    font-size: 13px;
+}
+.opcoes
+{
+    height: 230px;
+    border-style: solid;
+    border-width: thick;
+    border-radius: 2px;
+    display: block;
+    margin-right: 1020px;
+    background-color: aliceblue;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+.opcoes a
+{
+    color:black
+}
+
+/*RODAPÉ*/
+.rod
+{
+    text-transform: uppercase;
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 22px;
+    background-color: #556B2F ;
+    margin-top: 70px;
+    padding-bottom: 10px;
+} 
+.rod-l
+{
+    display: inline;
+    margin-right: 15px;
+    font-size:medium;
+}
